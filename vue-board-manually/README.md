@@ -1,6 +1,6 @@
 # vue-board-manually
 
-### Project setup
+## Project setup
 ```
 npm install
 ```
